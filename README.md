@@ -2,7 +2,6 @@
 
    skibidi sigma 
 
-   
   Run
 
   git config --global user.email "jose.moena.rios@alumnos"
